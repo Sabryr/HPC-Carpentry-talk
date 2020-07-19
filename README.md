@@ -19,13 +19,11 @@
       needed than what is thought in “Version Control with Git”
 
 
-### CodeRefinery model
+### [CodeRefinery] (https://coderefinery.org) model
 
-* https://coderefinery.org
 * Inspired by the Carpenters project and follow Carpentry pedagogy
-* Provide the next level lessons  (as described before)
-  * https://coderefinery.org/lessons/
-* It is funded by Nordic e-Infrastructure Collaboration (NeIC,https://neic.no/) 
+* Provide the next level [lessons] (https://coderefinery.org/lessons)  (as described before)
+* It is funded by Nordic e-Infrastructure Collaboration ( [NeIC] (https://neic.no/) ) 
   and most instructors are indirectly financed so not a fully voluntary effort 
 * Lessons are developed with  the intention of Carpentries would absorb the 
   teaching material in the future. 
